@@ -4,7 +4,10 @@
   "version": "${version}",
   "name": "troll",
   "description": "Minecraft Client Base",
-  "authors": [],
+  "authors": [
+    "NekoCat",
+    "i_07"
+  ],
   "contact": {},
   "license": "MIT",
   "environment": "client",
